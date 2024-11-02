@@ -1,2 +1,2 @@
-# Airline-ShreelakshmiAnalyst-Airline-Satisfaction-Insights
+ShreelakshmiAnalyst-Airline-Satisfaction-Insights
 Python Project
